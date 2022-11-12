@@ -125,7 +125,6 @@
     "use-life-cycle-interface": true,
     "use-pipe-transform-interface": true,
     "component-class-suffix": true,
-    "directive-class-suffix": true,
-    "tslint.autoFixOnSave": true
+    "directive-class-suffix": true
   }
 }
